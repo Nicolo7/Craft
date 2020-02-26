@@ -1,6 +1,6 @@
 For each Task:
 
-Status is one of blank, assigned to person and sprint, pull request, accepted
+Status is one of blank, assigned to person and sprint number, pull request and sprint number, accepted and sprint number
 
 ## User STory A
   Status: Assigned Gavin Sprint 1 2pts PO Priority 1: Task 001 Identify which block ID in Craft coresponds to "stone".
